@@ -1,4 +1,2 @@
 ONE
-two
 three
-four
