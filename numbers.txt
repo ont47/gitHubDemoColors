@@ -6,4 +6,3 @@ FIVe
 SIX
 SEVEn
 
-bad commit

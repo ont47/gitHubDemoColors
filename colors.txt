@@ -6,4 +6,3 @@ blue
 indigo
 I love the rainbow!
 
-Bad Commit
